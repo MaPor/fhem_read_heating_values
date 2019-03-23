@@ -1,9 +1,8 @@
 # fhem_read_heating_values
-read out the temperature of a heating device
+Read out the temperature of a heating device
 
-This is how to read analog values (voltages representing temperatures) from a house heating device (e.g. Paradigma) with a raspi.
-
-The values are handed over to FHEM house automation for further processing and visualization (tracking of temperatures, solar income,...)
+- This script enables to read analog values (voltages representing temperatures) from a house heating device (e.g. Paradigma) with a raspi.
+- The values are handed over to FHEM house automation for further processing and visualization (tracking of temperatures, solar income,...)
 
 # Installation / Prerequisites
 
